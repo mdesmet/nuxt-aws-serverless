@@ -1,6 +1,6 @@
-# contractscience-website
+# nuxt-aws-serverless
 
-> ContractScience Website
+> Quickly create a nuxt aws serverless application
 
 ## Build Setup
 
